@@ -11,7 +11,7 @@
     <div class="container">
         <div class="page-header">
             <h1>About Us</h1>
-            <p>Prowell Industrial Supply is a Maintenance, Repair, and Operations (MRO) company </p>
+            <p>XXXX XXXX XXXX is a Maintenance, Repair, and Operations (MRO) company </p>
             <p>focused on industrial products sales, maintenance and spare parts operation.</p>
         </div>
 
