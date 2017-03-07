@@ -15,8 +15,8 @@
             <img class="first-slide home-image" src="<c:url value="/resources/images/back1.jpg" />" alt="First slide">
             <div class="container">
                 <div class="carousel-caption">
-                    <h1>Welcome to Prowell Industrial Supply, Inc.</h1>
-                    <p>Prowell Industrial Supply is a Maintenance, Repair, and Operations (MRO) company focused on
+                    <h1>Welcome to XXXX XXXX XXXX, Inc.</h1>
+                    <p>XXXX XXXX XXXX is a Maintenance, Repair, and Operations (MRO) company focused on
                         industrial products sales, maintenance and spare parts operation. </p>
                 </div>
             </div>
